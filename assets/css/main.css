@@ -1729,13 +1729,4 @@ input, select, textarea {
 		.fieldset2{
 			border-bottom: 50px;
 		}
-		@media (max-width: 480px) {
-			#repository-link {
-				font-size: 14px; /* Adjust font size */
-				padding: 10px; /* Adjust padding */
-				margin: 10px auto; /* Center and adjust margin */
-				display: block; /* Ensure block display */
-				text-align: center; /* Center text */
-				width: 90%; /* Adjust width */
-			}
-		}
+		
